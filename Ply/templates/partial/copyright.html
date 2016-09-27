@@ -1,0 +1,7 @@
+<p>&copy; {{ COPYRIGHT_YEAR }} {{ AUTHOR }} - {{ _('Powered by %(pelican_url)s - Ply theme by Thorin Tabor, based on the %(flex_url)s theme by %(alexandrevicenzi_url)s',
+  pelican_url='<a href="http://getpelican.com" target="_blank">Pelican</a>',
+  flex_url='<a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a>'|safe,
+  alexandrevicenzi_url='<a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a>'|safe) }}</p>
+{% if STATUSCAKE %}
+  {% include "partial/statuscake.html" %}
+{% endif %}
