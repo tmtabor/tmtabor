@@ -13,7 +13,7 @@ have worked on [GenomeSpace](http://genomespace.org) and the [Jupyter](http://ju
 integration of [Integrative Genomics Viewer (IGV)](http://igv.org). I primarily program in 
 Python, JavaScript and Java, but have experience with a variety of other languages as well.
 
-In my spare time I write and design tabletop games, mostly of the roleplaying variety. These are published by 
+In my spare time, I write and design tabletop games, mostly of the roleplaying variety. These are published by 
 [Tab Creations LLC](http://www.tabcreations.com), of which I am part-owner. Games I have written, crowdfunded and 
 published include [Shadows Over Sol](http://www.tabcreations.com/site/Shadows_Over_Sol), 
 [Against the Dark Yogi](http://www.tabcreations.com/site/Against_the_Dark_Yogi) and the upcoming 

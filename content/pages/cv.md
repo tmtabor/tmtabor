@@ -119,7 +119,7 @@ Williams, Helga Thorvaldsdóttir, Pablo Tamayo, Jill P. Mesirov*
     * A science fiction horror roleplaying game set in our own solar system, some 200 
     years in the future. Humanity has spread throughout the inner planets and is making 
     headway into the outer solar system, but humankind has brought its own dark workings 
-    with it into space.
+    into space.
     
 * **We're All Going to Die Here: A Tongue-in-Cheek Horror Card Game**<br/>
 *Writing, Design, Crowdfunding, Layout and Team Coordination, October 2014*
@@ -132,24 +132,24 @@ Williams, Helga Thorvaldsdóttir, Pablo Tamayo, Jill P. Mesirov*
 *Writing, Design, Crowdfunding, Layout and Team Coordination, February 2014*
     * A tabletop roleplaying game set in a fantasy world based on mythological India. It's 
     a game of high action and cosmically-chosen heroes with fantastic abilities, working 
-    to thwart the coming of the final age of the world.
+    to thwart the coming of the final age.
     
 * **Ganjifa: Traditional Indian Playing Cards**<br/>
 *Crowdfunding and Team Coordination, May 2013*
     * Crowdfunded the first general printing of Ganjifa cards in the United States since 
-    the 1950s. Ganjifa cards are tradition round playing cards from India and Persia.
+    the 1950s. Ganjifa cards are traditional round playing cards from India and Persia.
     
 * **Saga Machine: A Roleplaying Game of Actions and Consequences**<br/>
 *Writing, Design and Layout, December 2008*
     * A tabletop roleplaying game designed to run any number of genres or settings. It is 
     meant to be quick and easy, while supporting a variety of styles of play. This system 
-    was later revised, improved and use in both *Against the Dark Yogi* and *Shadows Over Sol*.
+    was later revised, improved and used in both *Against the Dark Yogi* and *Shadows Over Sol*.
     
 * **Dark Ages: Trystell**<br/>
 *Writing, Design and System Administration, July 2002*
-    * A browser-based strategy game, where players take on the role of empires in a 
+    * A browser-based strategy game, where players would take on the role of empires in a 
     fantasy world. The game was competitive and would pit players against each other for 
-    domination over the continent. At its height it has over 1000 active players.
+    domination over the continent. At its height it had over 1000 active players.
 
 ### Software
 

@@ -9,7 +9,7 @@ of additional projects for which I have contributed, please see my
 
 **[GenePattern Notebook](http://genepattern-notebook.org)** is an extension for Jupyter 
 Notebook which bridges the functionality of Jupyter and GenePattern. It provides access 
-to hundreds of bioinformatic tools within Jupyter Notebook, all within a friendly user 
+to hundreds of bioinformatic tools in Jupyter Notebook, all with a friendly user 
 interface.
 
 **[Notebook Repository](https://github.com/genepattern/notebook-repository)** is a 
@@ -24,7 +24,7 @@ analysis. It also provides a REST API and queueing system integrations.
 
 **[GenePattern Python Library](https://github.com/genepattern/genepattern-python)** is a 
 Python wrapper for the GenePattern API. It provides programmatic access for searching and 
-selecting analysess, uploading files, submitting jobs, retrieving the analysis results and 
+selecting analyses, uploading files, submitting jobs, retrieving the analysis results and 
 sending those results to a downstream step in an analysis pipeline.
 
 **[Jupyter WYSIWYG Editor](https://github.com/genepattern/jupyter-wysiwyg)** is an 
