@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=tmtabor&layout=compact&langs_count=6
+          options: username=tmtabor&layout=normal&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
