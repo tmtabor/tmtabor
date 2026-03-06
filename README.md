@@ -1,4 +1,4 @@
-Professionally, I have over eighteen years of experience as a software engineer. Academically, I have a master’s degree in computer science. Recreationally, I have been coding since I was in grade school.
+Professionally, I have over nineteen years of experience as a software engineer. Academically, I have a master’s degree in computer science. Recreationally, I have been coding since I was in grade school.
 
 ### What I'm Building
 
