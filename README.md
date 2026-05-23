@@ -11,12 +11,12 @@ As a Staff Software Engineer and AI Architect, I lead the development of distrib
 
 ### My Stack
 
-* ***AI & ML:*** Agentic AI, MCP, RAG, LLMs, Multi-Agent Orchestration, Pydantic AI, LangChain, LangGraph, Vector
+* **AI & ML:** Agentic AI, MCP, RAG, LLMs, Multi-Agent Orchestration, Pydantic AI, LangChain, LangGraph, Vector
 Databases, Embeddings, Prompt Engineering, Logfire, OpenTelemetry, Model Evaluation, LoRA Fine-Tuning,
 Synthetic Data Generation, Hugging Face, vLLM, Scikit-Learn, Pandas, NumPy
-* ***Infrastructure:*** Python, Django, FastAPI, RESTful APIs, JavaScript, TypeScript, SQL, Docker, AWS, GCP, Linux,
+* **Infrastructure:** Python, Django, FastAPI, RESTful APIs, JavaScript, TypeScript, SQL, Docker, AWS, GCP, Linux,
 Distributed Systems, Celery, RabbitMQ, Git, CI/CD, OAuth, MongoDB, Kubernetes
-* ***Scientific Computing:*** Jupyter, HPC, Bioinformatics Tooling, Genomics Pipelines, NGS Data Analysis, Single-Cell
+* **Scientific Computing:** Jupyter, HPC, Bioinformatics Tooling, Genomics Pipelines, NGS Data Analysis, Single-Cell
 Transcriptomics, Multiomics, Open-Source Software
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/thorin-tabor-99223627/) | [Bluesky](https://bsky.app/profile/beholdsa.bsky.social)
