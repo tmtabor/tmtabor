@@ -19,4 +19,4 @@ Distributed Systems, Celery, RabbitMQ, Git, CI/CD, OAuth, MongoDB, Kubernetes
 * **Scientific Computing:** Jupyter, HPC, Bioinformatics Tooling, Genomics Pipelines, NGS Data Analysis, Single-Cell
 Transcriptomics, Multiomics, Open-Source Software
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/thorin-tabor-99223627/) | [Bluesky](https://bsky.app/profile/beholdsa.bsky.social)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/thorin-tabor-99223627/) | [Bluesky](https://bsky.app/profile/tmtabor.io)
