@@ -1,4 +1,4 @@
-Professionally, I have over nineteen years of experience as a software engineer. Academically, I have a master’s degree in computer science. Recreationally, I have been coding since I was in grade school. Seven publications. Three-time JupyterCon presenter. One founded Google Startups-backed SaaS.
+Professionally, I have over nineteen years of experience as a software engineer. Academically, I have a master’s degree in computer science. Recreationally, I have been coding since I was in grade school. Seven publications. Three-time JupyterCon presenter. One Google Startups-backed SaaS.
 
 ### My Stack
 
